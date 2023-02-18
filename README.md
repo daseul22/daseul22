@@ -7,4 +7,4 @@
 **Email** : da.seul.niel@gmail.com 
 
 ## Skill
-Typescript, Nodejs, Express, Nestjs, Graphql, Mysql
+Typescript, Nodejs, Express, ♥ **Nestjs**, Graphql, Mysql
